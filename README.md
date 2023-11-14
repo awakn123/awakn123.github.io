@@ -1,2 +1,2 @@
 # awakn123.github.io
-曹云的Blog
+[HyperSudoku](https://awakn123.github.io/HyperSudoku/)
